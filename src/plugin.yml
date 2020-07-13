@@ -1,0 +1,10 @@
+name: VideoFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 4.2
+# Trust me, developing the TFM as an attempt was a hard thing to work on -Phantom
+description: Plugin for the Video Freedom server.
+softdepend: [BukkitTelnet, WorldEdit, Essentials]
+# Credit to Madgeek1450 and Darth for making this plugin so it can be fucked with.
+authors: [TheSuspense76]
+
+# plugin.yml is no longer used to define commands.
